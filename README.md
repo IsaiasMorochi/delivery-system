@@ -90,10 +90,10 @@ La implementación de SearchCriteria contiene una representación básica de una
 ### Entregables
 
 * [Repositorio](https://github.com/IsaiasMorochi/delivery-system.git/)
-* [Reseña](https://github.com/IsaiasMorochi/delivery-system.git/))
+* [Reseña](https://github.com/IsaiasMorochi/delivery-system/blob/main/README.md))
 * [Documentacion de API](doc/endpoints/delivery-system-openapi.json)
 
-![OpenApi]git s(doc/images/openapi.png)
+![OpenApi](doc/images/docopenapi.png)
 
 
 ## Documentacion Api Rest
