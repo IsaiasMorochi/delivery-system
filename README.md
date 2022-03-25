@@ -26,6 +26,7 @@ La aplicacion presenta la siguiente estructura:
        └── java
            └── delivery
                └── pedido
+                │   │── application  
                 │   │   └── querybus
                 │   │   └── use-cases
                 │   │   └── services
@@ -93,7 +94,7 @@ La implementación de SearchCriteria contiene una representación básica de una
 * [Reseña](https://github.com/IsaiasMorochi/delivery-system/blob/main/README.md))
 * [Documentacion de API](doc/endpoints/delivery-system-openapi.json)
 
-![OpenApi](doc/images/docopenapi.png)
+![OpenApi](https://github.com/IsaiasMorochi/delivery-system/blob/main/doc/images/DocOpenApi.png)
 
 
 ## Documentacion Api Rest
